@@ -1,3 +1,5 @@
+# GraphicalRepresentation_Angular2
+Graphical representation by uploading a CSV file using Angular2
 # GraphGenerator-from-csv
 Upload a CSV file with prescribed format which will generate line graph according the data points provided
 
@@ -23,4 +25,3 @@ Use the attached SampleFile.csv for format of data.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-
